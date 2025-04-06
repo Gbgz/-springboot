@@ -29,10 +29,7 @@ import java.util.Map;
 
 /**
  * httpClient 工具类
- * @author java1234_小锋
- * @site www.java1234.com
- * @company Java知识分享网
- * @create 2019-02-10 下午 2:49
+ *
  */
 @Component
 public class HttpClientUtil {
