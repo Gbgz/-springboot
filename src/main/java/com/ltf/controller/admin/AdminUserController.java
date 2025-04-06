@@ -17,10 +17,6 @@ import java.util.Map;
 
 /**
  * 后台管理-用户Controller控制器
- * @author ltf_小锋
- * @site www.ltf.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-05-16 9:32
  */
 @RestController
 @RequestMapping("/admin/user")

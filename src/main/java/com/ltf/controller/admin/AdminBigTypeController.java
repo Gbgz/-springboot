@@ -17,11 +17,8 @@ import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
 
-/**后台管理-商品大类Controller控制器
- * @author  ltf_小锋
- * @site www. ltf.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-05-25 9:10
+/**
+ * 后台管理-商品大类Controller控制器
  */
 @RestController
 @RequestMapping("/admin/bigType")

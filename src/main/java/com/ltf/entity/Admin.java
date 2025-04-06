@@ -8,10 +8,6 @@ import lombok.Data;
 
 /**
  * 管理员实体
- * @author java1234_小锋
- * @site www.java1234.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-02-05 7:47
  */
 @TableName("t_admin")
 @Data

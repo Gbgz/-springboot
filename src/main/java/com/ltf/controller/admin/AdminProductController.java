@@ -18,10 +18,6 @@ import java.util.Map;
 
 /**
  * 管理员-商品Controller控制器
- * @author ltf_小锋
- * @site www.ltf.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-05-21 21:07
  */
 @RestController
 @RequestMapping("/admin/product")

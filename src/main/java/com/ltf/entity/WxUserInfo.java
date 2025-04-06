@@ -12,10 +12,6 @@ import java.util.Date;
 
 /**
  * 微信用户信息实体
- * @author java1234_小锋
- * @site www.java1234.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-01-08 15:59
  */
 @TableName("t_wxUserInfo")
 @Data

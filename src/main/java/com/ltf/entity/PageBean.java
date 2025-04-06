@@ -2,10 +2,6 @@ package com.ltf.entity;
 
 /**
  * 分页Model类
- * @author java1234_小锋
- * @site www.java1234.com
- * @company Java知识分享网
- * @create 2020-02-16 上午 11:05
  */
 public class PageBean {
 

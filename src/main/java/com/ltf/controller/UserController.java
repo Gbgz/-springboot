@@ -21,10 +21,6 @@ import java.util.Map;
 
 /**
  * 微信用户Controller
- * @author java1234_小锋
- * @site www.java1234.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-04-02 9:12
  */
 @RestController
 @RequestMapping("/user")

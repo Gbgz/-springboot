@@ -20,10 +20,6 @@ import java.util.*;
 
 /**
  * 微信支付Controller
- * @author ltf_小锋
- * @site www.ltf.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-04-10 9:28
  */
 @Controller
 @RequestMapping("/weixinpay")

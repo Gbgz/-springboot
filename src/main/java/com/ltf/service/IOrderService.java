@@ -8,10 +8,7 @@ import java.util.Map;
 
 /**
  * 订单Service接口
- * @author ltf_小锋
- * @site www.ltf.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-02-23 22:01
+ *
  */
 public interface IOrderService extends IService<Order> {
 

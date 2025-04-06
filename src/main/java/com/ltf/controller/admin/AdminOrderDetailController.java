@@ -15,10 +15,6 @@ import java.util.Map;
 
 /**
  * 管理员-订单详情Controller控制器
- * @author  ltf_小锋
- * @site www. ltf.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-05-24 9:32
  */
 @RestController
 @RequestMapping("/admin/orderDetail")

@@ -6,8 +6,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * 微信支付配置文件
- * @author Administrator
- *
  */
 @Component
 @ConfigurationProperties(prefix="weixinpayconfig")

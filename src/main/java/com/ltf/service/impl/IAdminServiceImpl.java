@@ -9,10 +9,6 @@ import org.springframework.stereotype.Service;
 
 /**
  * 管理员Service实现类
- * @author ltf_小锋
- * @site www.ltf.com
- * @company 南通小锋网络科技有限公司
- * @create 2022-02-23 22:02
  */
 @Service("adminService")
 public class IAdminServiceImpl extends ServiceImpl<AdminMapper,Admin> implements IAdminService {

@@ -8,11 +8,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 /**
  * 自定义鉴权拦截器
- * @author java1234_小锋
- * @site www.java1234.com
-配置拦截器：
- * @company 南通小锋网络科技有限公司
- * @create 2022-04-06 8:31
  */
 public class SysInterceptor implements HandlerInterceptor {
         @Override
